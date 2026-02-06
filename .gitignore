@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+backend/.env
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+android/.gradle
+android/app/build
+android/key.properties
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Mac
+.DS_Store
+
+# Generated
+frontend/build/
+frontend/android/app/build/
+frontend/.dart_tool/
